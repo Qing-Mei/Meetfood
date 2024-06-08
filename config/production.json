@@ -1,0 +1,3 @@
+{
+  "mongodbConnectURI": "mongodb+srv://admin:meetfood@cluster0.w3xledd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+}
