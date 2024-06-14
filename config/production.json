@@ -1,3 +1,11 @@
 {
-  "mongodbConnectURI": "mongodb+srv://admin:meetfood@cluster0.w3xledd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+  "mongodbConnectURI": "mongodb+srv://admin:meetfood@cluster0.w3xledd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+
+  "jwtSecret": "MeetFoodSecretKey",
+  "jwtExpire": "360000",
+
+  "region": "us-east-2",
+  "userPoolId": "us-east-2_Ph7u68AMx",
+  "clientId": "je1pb45bebpjckf3bntpqcpa8",
+  "tokenExpiration": "8640000"
 }

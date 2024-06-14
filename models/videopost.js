@@ -92,7 +92,7 @@ const videoPostSchema = new Schema(
       },
     ],
   },
-  { collection: 'videoposts' },
+  { collection: 'meetfood' },
 );
 
 module.exports = mongoose.model('VideoPost', videoPostSchema);

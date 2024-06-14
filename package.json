@@ -11,10 +11,15 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cognito-express": "^3.0.4",
     "express": "^4.19.2",
+    "express-validator": "^7.1.0",
+    "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.4.1"
   },
   "devDependencies": {
+    "apidoc": "^1.2.0",
     "eslint": "^9.4.0",
     "husky": "^9.0.11",
     "nodemon": "^3.1.3",
